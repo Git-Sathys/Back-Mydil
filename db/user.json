@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "login": "m.b",
+    "password": "123456",
+    "name": "m",
+    "lastname": "b",
+    "mail": "m@outlook.fr"
+  },
+  {
+    "id": 1,
+    "login": "a.g",
+    "password": "123456",
+    "name": "a",
+    "lastname": "a",
+    "mail": "a@outlook.fr"
+  },
+  {
+    "id": 2,
+    "login": "j.c",
+    "password": "123456",
+    "name": "J",
+    "lastname": "C",
+    "mail": "j@outlook.fr"
+  }
+]
